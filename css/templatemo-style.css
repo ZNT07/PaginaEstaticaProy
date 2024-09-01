@@ -16,9 +16,14 @@ body
         height: 100%;
         overflow-x: hidden;
     }
+
+.text-upper {
+	font-size: 50px;
+}
 	
-.tm-white a {
+.tm-white {
 	color: #fff;
+	font-size: 20px;
 }
 
 /* start h1 group */
