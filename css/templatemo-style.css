@@ -43,6 +43,24 @@ img
     }
 /* img */
 
+.img-responsive
+    {
+        max-width: 50%;
+        height: auto;
+    }
+
+.img-responsive2
+    {
+        max-width: 60%;
+        height: auto;
+    }
+
+.img-responsive3
+    {
+        max-width: 60%;
+        height: auto;
+    }
+
 /* overlay */
 .overlay 
     {
@@ -360,6 +378,8 @@ img
         background: url('../images/contact-bg.jpg') no-repeat;
         background-size: cover;
         color: #fff;
+        max-width: 100%;
+        height: auto;
     }
 #contact h2
     {
